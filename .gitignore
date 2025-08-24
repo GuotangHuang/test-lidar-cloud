@@ -1,0 +1,22 @@
+# 產出/資料集
+data/
+!data/.gitkeep          # 若要留目錄結構
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# 日誌與暫存
+*.log
+*.tmp
+
+# 建置/封包
+dist/
+build/
+
+# 編輯器
+.vscode/
+.idea/

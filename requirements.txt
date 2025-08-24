@@ -1,0 +1,5 @@
+open3d==0.18.0
+numpy==2.1.1
+matplotlib==3.9.2
+pandas==2.2.2
+jupyterlab==4.2.5
